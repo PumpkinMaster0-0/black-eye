@@ -174,5 +174,5 @@ Each keeps its own license; Black Eye downloads them from their official sources
 <div align="center">
 <img src="images/boot.png" width="60%" alt="Black Eye starting">
 <br><br>
-<sub>Black Eye 1.0.0</sub>
+<sub>Black Eye 1.0.1</sub>
 </div>
